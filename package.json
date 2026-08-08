@@ -1,0 +1,15 @@
+{
+  "name": "multi-bot-panel",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "mineflayer": "^4.37.1",
+    "noblox.js": "^9.0.0"
+  }
+}
